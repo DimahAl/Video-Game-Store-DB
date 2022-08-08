@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T18:52:35.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lNoi9MpHHCQxsCdGKxC1" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T21:32:09.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6PdGNp41Aw514Lh_xybM" version="20.2.3" type="github">
   <diagram id="txbL5nJEDlmT8D21QV-v" name="Page-1">
-    <mxGraphModel dx="2350" dy="1305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3014" dy="1611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,6 +296,9 @@
             <mxPoint x="352.5799999999999" y="414" as="sourcePoint" />
             <mxPoint x="308" y="334" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PjOgimutKlfo3faEOFa5-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 70px;&quot;&gt;VideGameStoreDB&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-282" width="639" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
